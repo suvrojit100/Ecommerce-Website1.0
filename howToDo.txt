@@ -1,0 +1,21 @@
+npm init -y
+npm i express colors
+npm i nodemon(https://www.npmjs.com/package/nodemon)
+npm i dotenv
+npm i mongoose morgan
+npm install cors
+npm i bcrypt
+npm install jsonwebtoken
+npx create-react-app client
+npm i react-router-dom
+npm install react-icons
+npm i react-helmet
+npm i axios
+npm install react-hot-toast
+
+(manipulate data using value={name}
+              onChange={(e) => setName(e.target.value)})
+
+npm i concurrently cors
+
+context api use(redux toolkit can aalso be used)https://legacy.reactjs.org/docs/context.html
