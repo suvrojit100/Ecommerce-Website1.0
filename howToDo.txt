@@ -22,3 +22,5 @@ context api use(redux toolkit can aalso be used)https://legacy.reactjs.org/docs/
 
 spinners
 https://getbootstrap.com/docs/4.2/components/spinners/ 
+
+npm i slugify
