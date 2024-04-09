@@ -19,3 +19,6 @@ npm install react-hot-toast
 npm i concurrently cors
 
 context api use(redux toolkit can aalso be used)https://legacy.reactjs.org/docs/context.html
+
+spinners
+https://getbootstrap.com/docs/4.2/components/spinners/ 
