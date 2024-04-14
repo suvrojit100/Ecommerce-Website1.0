@@ -24,3 +24,6 @@ spinners
 https://getbootstrap.com/docs/4.2/components/spinners/ 
 
 npm i slugify
+npm i express-formidable
+
+npm install antd(in client)
